@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi, I'm Jon 👋
+
+- 🔭 I currently work at [PageUp](https://github.com/PageupPeopleOrg/)
+- 🌱 I lead the [Philippine .NET Users Group (PHINUG)](https://phinug.org)
+- 💬 I write (sporadically) at [JonLimjap.NET](https://jonlimjap.net)
+- 😄 I'm on Twitter as [@lattex](https://twitter.com/lattex)
+- 😄 I'm on Mastodon as <a rel="me" href="https://dotnet.social/@lattex">@lattex@dotnet.social</a>
+
 
 <!--
 **LaTtEX/LaTtEX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
