@@ -4,7 +4,7 @@
 - 🌱 I lead the [Philippine .NET Users Group (PHINUG)](https://phinug.org)
 - 💬 I write (sporadically) at [JonLimjap.NET](https://jonlimjap.net)
 - 😄 Follow me on [Twitter](https://twitter.com/lattex)
-- 😄 Follow me on <a href="https://dotnet.social/@lattex" rel="me nofollow" >Mastodon</a>
+- 😄 Follow me on <a href="https://dotnet.social/@lattex" rel="nofollow me" >Mastodon</a>
 
 
 <!--
